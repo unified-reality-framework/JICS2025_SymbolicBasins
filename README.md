@@ -69,5 +69,5 @@ This project is released under the MIT License￼.
 © 2025 Harmony Research Initiative · All Rights Reserved.
 
 🌐 DOI
-(to be updated once Zenodo DOI is minted)
+ DOI: 10.5281/zenodo.17499840 
 
